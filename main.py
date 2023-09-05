@@ -82,4 +82,5 @@ for i in range(1, len(log_char)):
         log_char_st.insert(st, log_char[i][1])
 print("相同日志数量为", count)
 print("相同时间的日志为", log_char_st)
+#upload
 
